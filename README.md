@@ -1,11 +1,14 @@
 # MD_analysis
 
 All the codes are written by Tim Yuan
+
 For academic purpose only
+
 Use it at your own risk
 
 ## density of z
 This code calculates the density of a selected group in the z direction
+
 Required: GROMACS 2018 or above, a trajectory file (xtc or trr), a gro/tpr file
 
 ## q3
