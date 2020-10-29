@@ -24,4 +24,6 @@ Note that, the code has a section to compute the histogram of the q3 distributio
 Required: GROMACS 2018 or above, a trajectory file (xtc or trr), a gro/tpr file
 
 ## instantaneous liquid interface
+This code is written by Tim Yuan, based on Willard A. P. and Chandler D. JPCB, 114,5,1954-1958,2010
+
 
